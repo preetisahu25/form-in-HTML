@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML forms</title>
+</head>
+<body>
+    <h1>forms in html</h1>
+    <form actions="/submit.php"></form>
+    <div>
+        <label for=""name>Name</label>
+        <input id="name" type="text" placeholder="enter name">
+    </div>
+    <div>
+        <label for="ph">phone</label>
+        <input id="ph" type="phone" placeholder="enter phone">
+    </div>
+</body>
+</html>
